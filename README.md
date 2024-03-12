@@ -1,6 +1,6 @@
 # ICSE2025 - #175
 
-We provide the data and source code for the three research questions (RQ) discussed in the paper: An Empirical Study on Requirement Changes in
+We provide the data and source code for the three research question (RQ) discussed in the paper: An Empirical Study on Requirement Changes in
 Deep Learning Models
 
 The repository is organized into three folders, one for each RQ.
