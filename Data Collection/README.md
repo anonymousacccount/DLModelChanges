@@ -3,7 +3,7 @@ This folder contains the files for RQ1. It has the source code and the repositor
 
 1. get_repositories.py extracts repositories with keywords: 'deep neural network' and 'deep learning' and star count > 50. With that we get 6655 repositories.
 
-2. Then the downloaded csv files have information about these repositories with number of releases > 1. These files are in the folder github_repositories.
+2. The downloaded csv files have information about these repositories with number of releases > 1. These files are in the folder github_repositories.
 
 3. We combine these files to get 696 repositories. These are in 'Repositories - Owner and repo'.
 
