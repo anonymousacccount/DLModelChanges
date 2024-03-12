@@ -1,3 +1,4 @@
+# RQ1: Taxonomy Generation
 This folder contains the files for RQ1. It has the source code and the repository extraction files which are used for taxonomy generation. Below is a description of all the files:
 
 1. get_repositories.py extracts repositories with keywords: 'deep neural network' and 'deep learning' and star count > 50. With that we get 6655 repositories.
