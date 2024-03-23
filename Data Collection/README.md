@@ -13,6 +13,6 @@ This folder contains the files for taxonomy generation. It has the source code a
 
 6. We manually label to get model related changes by answering the question: Does the issue deal with requirement change in pre-trained model? We get 168 issues in 42 repositories.
    
-7. Repositories.xlsx contains a comprehensive sheet of all the steps mentioned above as well as the final filtered repositories which are in the sheet named "final".
+7. Repositories.xlsx contains a comprehensive sheet of all the steps mentioned above as well as the final filtered and labeled repositories which are in the sheet named "final".
 
 8. We have also attached a pdf file named "Examples of Change Types" which gives one example each of the identified changes.
